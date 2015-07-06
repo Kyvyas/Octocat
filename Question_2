@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+A remote is a version of a repository hosted elsewhere. When you have a shareable local project, you push it upstream to the remote to share it.
