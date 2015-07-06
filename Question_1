@@ -1,1 +1,2 @@
-Explain what git clone does, in your own words
+Clones a repository into a new directory using the command "git clone".
+
